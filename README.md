@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **joel377wolf@gmail.com**
 
-- ⚡ Fun fact **I know how to exit vim.**
+- ⚡ Fun fact: **I know how to exit vim.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
