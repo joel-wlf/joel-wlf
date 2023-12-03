@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **React frontend projects**
 
-- 👨‍💻 All of my projects are available at [github.com/joel-wlf](Github)
+- 👨‍💻 All of my projects are available at [GitHub](github.com/joel-wlf)
 
 - 💬 Ask me about **javascript, react, css**
 
