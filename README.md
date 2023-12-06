@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **chrome extensions, backend, TypeScript**
 
-- 👯 I’m looking to collaborate on **React frontend projects**
+- 👯 I’m looking to collaborate on **React projects**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/joel-wlf)
 
