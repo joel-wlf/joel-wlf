@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Joel</h1>
+<h1 align="center">Hi 👋, I'm Joel - btw</h1>
+<p align="center">No, I don't use Arch...</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joel-wlf&label=Profile%20views&color=0e75b6&style=flat" alt="joel-wlf" /> </p>
 
