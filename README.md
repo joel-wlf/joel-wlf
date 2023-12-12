@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Joel</h1>
-<h3 align="center">A curious frontend developer from Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joel-wlf&label=Profile%20views&color=0e75b6&style=flat" alt="joel-wlf" /> </p>
 
