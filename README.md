@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joel-wlf&label=Profile%20views&color=0e75b6&style=flat" alt="joel-wlf" /> </p>
 
-- 🔭 I’m currently working on [Mount.](github.com/joel-wlf/mount)
+- 🔭 I’m currently working on [Mount.](https://github.com/joel-wlf/mount)
 
 - 🌱 I’m currently learning **chrome extensions, backend, TypeScript**
 
