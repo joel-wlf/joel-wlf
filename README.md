@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joel-wlf&label=Profile%20views&color=0e75b6&style=flat" alt="joel-wlf" /> </p>
 
-- 🔭 I’m currently working on [Mount.](https://github.com/joel-wlf/mount)
+- 🔭 I’m currently working on [Agent X](https://github.com/joel-wlf/agent-x)
 
-- 🌱 I’m currently learning **chrome extensions, backend, TypeScript**
+- 🌱 I’m currently learning **NextJS, TypeScript, Databases**
 
 - 👯 I’m looking to collaborate on **React projects**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/joel-wlf)
 
-- 💬 Ask me about **javascript, react, css**
+- 💬 Ask me about **javascript, react**
 
 - 📫 How to reach me **joel377wolf@gmail.com**
 
