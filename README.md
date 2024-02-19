@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/joel-wlf)
 
-- 💬 Ask me about **javascript, react**
+- 💬 Ask me about **JS, React, Networking**
 
 - 📫 How to reach me **joel377wolf@gmail.com**
 
