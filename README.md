@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Agent X](https://github.com/joel-wlf/agent-x)
 
-- 🌱 I’m currently learning **NextJS, TypeScript, Databases**
+- 🪣 Bucket list: **NextJS, Prisma, Svelte**
 
 - 👯 I’m looking to collaborate on **React projects**
 
