@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Anvil](https://github.com/joel-wlf/anvil-maintenance)
 
-- 🪣 Bucket list: **NextJS, Prisma, Svelte**
+- 🪣 Learning: **NextJS, Rust, Docker**
 
 - 👯 I’m looking to collaborate on **React projects**
 
