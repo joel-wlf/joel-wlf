@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joel-wlf&label=Profile%20views&color=0e75b6&style=flat" alt="joel-wlf" /> </p>
 
-- 🔭 I’m currently working on [Anvil](https://github.com/joel-wlf/anvil-maintenance)
+- 🔭 Currently working on @Network Cargo Frankfurt
+  
+- 🪣 Learning: **Rust, Docker**
 
-- 🪣 Learning: **NextJS, Rust, Docker**
+- 👨‍💻 Some of my projects are available on [GitHub](https://github.com/joel-wlf)
 
-- 👯 I’m looking to collaborate on **React projects**
-
-- 👨‍💻 All of my projects are available on [GitHub](https://github.com/joel-wlf)
-
-- 💬 Ask me about **JS, React, Networking**
+- 💬 Ask me about **JS, React, Cloud Architecture**
 
 - 📫 How to reach me **joel377wolf@gmail.com**
 
