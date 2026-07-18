@@ -12,7 +12,7 @@
 
 ## Hi, I'm Joel
 
-I build software around **real operational work**: inventory, maintenance, bookings, documents, and the moments where a process must still work well on a phone.
+I build software around **real operational work**: people, inventory, media, documents, approvals, and the moments where a process must still work well on a phone.
 
 My sweet spot is taking a messy workflow and turning it into a focused product — from data model and permissions to the interface people actually use.
 
@@ -23,20 +23,29 @@ I'm currently building practical web applications with **TypeScript, React, Next
 ## How I build
 
 - **Product first:** workflows and edge cases before feature counts
-- **Full stack:** TypeScript, React, Next.js, PostgreSQL, Prisma
-- **Infrastructure:** Vercel, AWS, Docker, Linux
-- **Operational details:** role-based access, PDFs, QR codes, signatures, and mobile-first interfaces
+- **Full stack:** TypeScript, React, Next.js, PostgreSQL, Prisma, Supabase
+- **Infrastructure:** Vercel, Cloudflare R2, AWS, Docker, Linux
+- **Operational details:** role-based access, audit trails, PDFs, QR codes, resumable uploads, and mobile-first interfaces
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,postgres,prisma,tailwind,docker,linux,aws,git&perline=10" alt="TypeScript, React, Next.js, PostgreSQL, Prisma, Tailwind CSS, Docker, Linux, AWS and Git">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,postgres,prisma,supabase,tailwind,docker,linux,cloudflare,aws,git&perline=12" alt="TypeScript, React, Next.js, PostgreSQL, Prisma, Supabase, Tailwind CSS, Docker, Linux, Cloudflare, AWS and Git">
 </p>
 
-## Selected builds
+## Selected projects
 
-- [**BBG Lager**](https://github.com/joel-wlf/bbg-lager) — mobile inventory, booking, checkout, stocktaking, and visual shelf management for a youth camp
-- [**Mount**](https://github.com/joel-wlf/mount) — a smart-village platform prototype created for the European Competition
-- [**Anvil Maintenance**](https://github.com/joel-wlf/anvil-maintenance) — maintenance workflows, task documentation, signatures, and PDF exports
-- [**Abbreve**](https://github.com/joel-wlf/Abbreve) — an open-source dictionary for internet abbreviations and slang
+### CoreOps
+
+An HR and operations platform developed for **Network Cargo**. It brings employee management, time tracking, documents, certificates, requests, equipment, and mobile workflows into one role-based system.
+
+### [BBG Lager](https://github.com/joel-wlf/bbg-lager)
+
+A mobile inventory and booking system for a youth camp — including item and box management, checkouts, conflict detection, guided stocktaking, and a visual shelf view.
+
+### Scale Content Kit
+
+A content-production workflow connecting clients, kits, shot lists, and media. It combines QR-based access, resumable uploads, internal review, notes, and organized delivery of production assets.
+
+<sub>CoreOps and Scale Content Kit are private projects; their descriptions intentionally stay at product level.</sub>
 
 ---
 
