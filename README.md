@@ -31,11 +31,11 @@ From HR and cargo operations to church inventory and embedded media systems — 
       <sub>Private · multi-tenant · role-based · PWA</sub>
     </td>
     <td width="33%" valign="top">
-      <h3><a href="https://github.com/joel-wlf/bbg-lager">BBG Lager ↗</a></h3>
+      <h3>BBG Lager</h3>
       <p><strong>Inventory + item booking</strong></p>
       <p>A mobile-first inventory system for our church youth work: manage items and storage boxes, book equipment, detect conflicts, guide stocktakes, and see where everything lives.</p>
       <p><code>React</code> <code>TypeScript</code> <code>PocketBase</code> <code>PWA</code></p>
-      <sub>Public · deployed on Vercel</sub>
+      <sub>Private repository · deployed on Vercel</sub>
     </td>
     <td width="33%" valign="top">
       <h3>AudioCenter</h3>
