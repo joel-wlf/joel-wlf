@@ -13,12 +13,7 @@ From HR and cargo operations to church inventory and embedded media systems — 
 
 <br><br>
 
-<table>
-  <tr>
-    <td valign="top"><img src="./assets/joel-ascii.svg" width="390" alt="Animated ASCII portrait of Joel Wolf"></td>
-    <td valign="top"><img src="./assets/info-card.svg" width="510" alt="Terminal card with Joel's developer profile"></td>
-  </tr>
-</table>
+<img src="./assets/info-card.svg" width="920" alt="Terminal card with Joel's developer profile">
 
 <br>
 
