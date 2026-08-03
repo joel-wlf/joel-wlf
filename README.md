@@ -27,14 +27,14 @@ From HR and cargo operations to church inventory and embedded media systems — 
       <h3>CoreOps</h3>
       <p><strong>HR + operations platform</strong></p>
       <p>A production system for Network Cargo covering employees, time and attendance, payroll, certificates, requests, documents, equipment, shifts, and cargo workflows.</p>
-      <p><code>Next.js</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>Prisma</code></p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>PostgreSQL</code></p>
       <sub>Private · multi-tenant · role-based · PWA</sub>
     </td>
     <td width="33%" valign="top">
       <h3>BBG Lager</h3>
       <p><strong>Inventory + item booking</strong></p>
       <p>A mobile-first inventory system for our church youth work: manage items and storage boxes, book equipment, detect conflicts, guide stocktakes, and see where everything lives.</p>
-      <p><code>React</code> <code>TypeScript</code> <code>PocketBase</code> <code>PWA</code></p>
+      <p><code>React</code> <code>TypeScript</code> <code>PocketBase</code></p>
       <sub>Private repository · deployed on Vercel</sub>
     </td>
     <td width="33%" valign="top">
