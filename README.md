@@ -1,52 +1,77 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
-    <img src="./assets/header-light.svg" alt="Joel Wolf — product-minded full-stack developer" width="100%">
-  </picture>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="mailto:joel377wolf@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-joel377wolf%40gmail.com-198754?style=flat-square&logo=gmail&logoColor=white"></a>
-</p>
+### `joel@github ~ $ ./hello.sh`
 
-## Hi, I'm Joel
+# Hi, I'm Joel Wolf.
 
-I build software around **real operational work**: people, inventory, media, documents, approvals, and the moments where a process must still work well on a phone.
+**I turn real operational workflows into software people can rely on.**
 
-My sweet spot is taking a messy workflow and turning it into a focused product — from data model and permissions to the interface people actually use.
+From HR and cargo operations to church inventory and embedded media systems — I like the point where software leaves the demo and has to work in the real world.
 
-## Current focus
+<a href="mailto:joel377wolf@gmail.com"><img alt="Email Joel" src="https://img.shields.io/badge/Email-joel377wolf%40gmail.com-0f766e?style=flat-square&logo=gmail&logoColor=white"></a>
+<img alt="Based in Germany" src="https://img.shields.io/badge/Based_in-Germany-1e3a5f?style=flat-square">
 
-I'm currently building practical web applications with **TypeScript, React, Next.js, PostgreSQL, and cloud infrastructure**, with a particular interest in mobile-first workflows and reliable business tools.
+<br><br>
 
-## How I build
+<table>
+  <tr>
+    <td valign="top"><img src="./assets/joel-ascii.svg" width="390" alt="Animated ASCII portrait of Joel Wolf"></td>
+    <td valign="top"><img src="./assets/info-card.svg" width="510" alt="Terminal card with Joel's developer profile"></td>
+  </tr>
+</table>
 
-- **Product first:** workflows and edge cases before feature counts
-- **Full stack:** TypeScript, React, Next.js, PostgreSQL, Prisma, Supabase
-- **Infrastructure:** Vercel, Cloudflare R2, AWS, Docker, Linux
-- **Operational details:** role-based access, audit trails, PDFs, QR codes, resumable uploads, and mobile-first interfaces
+<br>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,postgres,prisma,supabase,tailwind,docker,linux,cloudflare,aws,git&perline=12" alt="TypeScript, React, Next.js, PostgreSQL, Prisma, Supabase, Tailwind CSS, Docker, Linux, Cloudflare, AWS and Git">
-</p>
+### `joel@github ~ $ ./featured-projects.sh`
 
-## Selected projects
+</div>
 
-### CoreOps
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>CoreOps</h3>
+      <p><strong>HR + operations platform</strong></p>
+      <p>A production system for Network Cargo covering employees, time and attendance, payroll, certificates, requests, documents, equipment, shifts, and cargo workflows.</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>Prisma</code></p>
+      <sub>Private · multi-tenant · role-based · PWA</sub>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/joel-wlf/bbg-lager">BBG Lager ↗</a></h3>
+      <p><strong>Inventory + item booking</strong></p>
+      <p>A mobile-first inventory system for our church youth work: manage items and storage boxes, book equipment, detect conflicts, guide stocktakes, and see where everything lives.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>PocketBase</code> <code>PWA</code></p>
+      <sub>Public · deployed on Vercel</sub>
+    </td>
+    <td width="33%" valign="top">
+      <h3>AudioCenter</h3>
+      <p><strong>Embedded church media hub</strong></p>
+      <p>A kiosk-style system for finding and selecting church media, then delivering it to people through an attached USB drive or a time-limited QR download on their phone.</p>
+      <p><code>Electron</code> <code>React</code> <code>Node.js</code> <code>Linux</code></p>
+      <sub>Private · USB · QR transfer · local file index</sub>
+    </td>
+  </tr>
+</table>
 
-An HR and operations platform developed for **Network Cargo**. It brings employee management, time tracking, documents, certificates, requests, equipment, and mobile workflows into one role-based system.
+<div align="center">
 
-### [BBG Lager](https://github.com/joel-wlf/bbg-lager)
+<br>
 
-A mobile inventory and booking system for a youth camp — including item and box management, checkouts, conflict detection, guided stocktaking, and a visual shelf view.
+### `joel@github ~ $ ./contributions.sh`
 
-### Scale Content Kit
+<img src="./assets/contrib-heatmap.svg" width="920" alt="Joel's GitHub contribution heatmap">
 
-A content-production workflow connecting clients, kits, shot lists, and media. It combines QR-based access, resumable uploads, internal review, notes, and organized delivery of production assets.
+<br>
 
-<sub>CoreOps and Scale Content Kit are private projects; their descriptions intentionally stay at product level.</sub>
+### `joel@github ~ $ cat principles.txt`
+
+`understand the workflow` · `design for the person using it` · `own the full stack` · `ship something useful`
+
+<br>
+
+<sub>TypeScript · React · Next.js · Electron · PostgreSQL · Prisma · Supabase · PocketBase · AWS · Docker · Linux</sub>
 
 ---
 
-<p align="center"><sub>Build the workflow. Reduce the friction. Make the result useful.</sub></p>
+<sub>Build the workflow. Reduce the friction. Make the result useful.</sub>
+
+</div>
