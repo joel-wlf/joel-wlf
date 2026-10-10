@@ -8,7 +8,7 @@
 
 From HR and cargo operations to church inventory and embedded media systems — I like the point where software leaves the demo and has to work in the real world.
 
-<a href="mailto:joel377wolf@gmail.com"><img alt="Email Joel" src="https://img.shields.io/badge/Email-joel377wolf%40gmail.com-0f766e?style=flat-square&logo=gmail&logoColor=white"></a>
+<a href="mailto:hi@joel-wolf.de"><img alt="Email Joel" src="https://img.shields.io/badge/Email-joel377wolf%40gmail.com-0f766e?style=flat-square&logo=gmail&logoColor=white"></a>
 <img alt="Based in Germany" src="https://img.shields.io/badge/Based_in-Germany-1e3a5f?style=flat-square">
 
 <br><br>
