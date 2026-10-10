@@ -15,7 +15,7 @@ LEFT_ROWS = [
     ("role", "product-minded full-stack developer"),
     ("based", "Germany"),
     ("focus", "operational + embedded systems"),
-    ("contact", "joel377wolf@gmail.com"),
+    ("contact", "hi@joel-wolf.de"),
 ]
 
 RIGHT_ROWS = [
