@@ -1,42 +1,7 @@
 {
   "username": "joel-wlf",
-  "generated_at": "2026-10-17T10:43:01.406770+00:00",
+  "generated_at": "2026-10-18T11:03:17.133304+00:00",
   "days": [
-    {
-      "day": "2025-10-12",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "day": "2025-10-13",
-      "count": 10,
-      "level": 2
-    },
-    {
-      "day": "2025-10-14",
-      "count": 6,
-      "level": 2
-    },
-    {
-      "day": "2025-10-15",
-      "count": 2,
-      "level": 1
-    },
-    {
-      "day": "2025-10-16",
-      "count": 2,
-      "level": 1
-    },
-    {
-      "day": "2025-10-17",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "day": "2025-10-18",
-      "count": 4,
-      "level": 1
-    },
     {
       "day": "2025-10-19",
       "count": 0,
@@ -1856,17 +1821,22 @@
       "day": "2026-10-17",
       "count": 0,
       "level": 0
+    },
+    {
+      "day": "2026-10-18",
+      "count": 0,
+      "level": 0
     }
   ],
   "stats": {
-    "total": 1030,
-    "active_days": 153,
-    "current_streak": 1,
+    "total": 1006,
+    "active_days": 148,
+    "current_streak": 0,
     "longest_streak": 9,
     "best_day": "2026-10-06",
     "best_day_count": 55,
     "monthly": {
-      "2025-10": 94,
+      "2025-10": 70,
       "2025-11": 67,
       "2025-12": 77,
       "2026-01": 12,
